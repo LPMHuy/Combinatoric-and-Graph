@@ -2,8 +2,8 @@
 ********* ALL CREDITS GOES TO https://algs4.cs.princeton.edu *********
 
 Execute with following commands:
-javac Dijkstra.java
-java Dijkstra input.txt n
+javac DijkstraSP.java
+java DijkstraSP input.txt n
 
 * n is which vertex you want to begin with / ex: java Dijkstra input.txt 0 * 
 

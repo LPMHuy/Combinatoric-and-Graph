@@ -17,4 +17,4 @@ Input.txt data entering guide:
 
 
 Output will be demonstrated like this:
-sourceV_to_desV_(totalPathLength)_progress 
+sourceV to desV (totalPathLength) progress 
